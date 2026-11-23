@@ -1,0 +1,6 @@
+{
+  "name": "World Literature Studio",
+  "description": "A universal multilingual literature and creative writing platform with AI literary assistant, book studio, digital library, and cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
